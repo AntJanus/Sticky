@@ -2,6 +2,7 @@
 // =============
 // Author: Anthony Garand
 // Improvements by German M. Bravo (Kronuz)
+// More Crap Piled On Top by Antonin Januska (antjanus)
 // Date: 9/12/2011
 // Website: http://labs.anthonygarand.com/sticky
 // Description: Makes an element on the page stick on the screen
